@@ -1,0 +1,27 @@
+1.Üye:
+AD:Mehmet Berke
+SOYAD:Ünlütürk
+Numara:1250505051
+Görevi:
+*GitHub public deposunu açmak ve proje iskeletini oluşturmak.  
+*Temel OOP yapılarını (soyutlama, kalıtım, çok biçimlilik, kapsülleme) içeren Kisi, Doktor, Hasta, Ameliyathane gibi ana sınıfları kodlamak.   
+*Hasta önceliklendirme, doktor ve ameliyathane çizelgeleme algoritmasını kurgulamak.
+*Algoritma esnekliği için Strategy tasarım kalıbını ve kalıtım hiyerarşisi için SOLID prensiplerini (Örn: Liskov Substitution, Open/Closed) uygulamak. 
+
+
+2.Üye:
+AD:Melih
+SOYAD:Kaya
+Numara:5250505034
+Görevi:
+*Uygulamanın verilerini kalıcı olarak saklayacak (dosyaya yazma/okuma) sınıfları hazırlamak.
+*Nesne üretimlerini (farklı hasta veya doktor tipleri) yönetecek Factory tasarım kalıbını eklemek.
+*Yazılan kodların doğruluğunu kontrol etmek için en az 8 adet birim (unit) testi yazmak.
+*Projenin UML sınıf diyagramını çizmek ve GitHub için README.md dosyasını hazırlamak.
+
+
+Ortak Görevler:
+*Kırklareli Üniversitesi öğrenci numaralarınızı, adınızı, soyadınızı ve bu görev dağılımını proje_takimi.txt dosyasına yazmak.
+*Toplamda en az 8 anlamlı sınıfı tamamlayıp konsol arayüzünü işler hâle getirmek.
+*Projenin çalışma mantığını ve kodlarını açıklayan, en fazla 10 dakikalık sunum videosunu çekmek.
+*GitHub bağlantısı, sunum videosu ve txt dosyasını grupNo.rar formatında MS Teams üzerinden teslim etmek.
