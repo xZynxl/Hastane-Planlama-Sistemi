@@ -16,3 +16,5 @@ Bu proje, Nesneye Yönelik Programlama (OOP) dersi için hazırlanmış bir hast
 **Proje Takımı:**
 * Mehmet Berke ÜNLÜTÜRK - 1250505051 - Görev: Mimari ve Algoritma
 * Melih Kaya - 5250505034 - Görev: Veri Yönetimi, Test ve Dokümantasyon
+
+* Not: Testleri çalıştırabilmek için geliştirme ortamına (IDE) JUnit 5 (org.junit.jupiter) kütüphanesinin dahil edilmesi gerekmektedir.
